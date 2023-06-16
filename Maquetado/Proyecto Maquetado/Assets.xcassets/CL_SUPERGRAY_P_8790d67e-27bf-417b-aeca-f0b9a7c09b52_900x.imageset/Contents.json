@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "CL_SUPERGRAY_P_8790d67e-27bf-417b-aeca-f0b9a7c09b52_900x.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
